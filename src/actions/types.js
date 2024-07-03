@@ -1,2 +1,3 @@
 export const FETCH_BUTTON_CLICKED = "FETCH_BUTTON_CLICKED";
 export const SELECT_POST = "SELECT_POST";
+export const SELECT_USER = "SELECT_USER";

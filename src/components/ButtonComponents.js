@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { fetchPosts } from "../actions/postAction";
+import { fetchUsers } from "../actions/userAction";
 import { bindActionCreators } from "redux";
 import { connect } from "react-redux";
 
